@@ -26,5 +26,6 @@ This project fulfills the following tasks:
 First, clone this repository:
 
 ```bash
-git clone https://github.com/shivamthegreat/.git
-cd buildwithai
+git clone https://github.com/shivamthegreat/internshiptaskbwal/.git
+cd internshiptaskbwal
+
