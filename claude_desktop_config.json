@@ -1,0 +1,13 @@
+{
+  "server_url": "http://localhost:8000",
+  "tools": [
+    "generate_mcqs",
+    "generate_flashcards"
+  ],
+  "resources": [
+    "get_lesson_plan"
+  ],
+  "auth": {
+    "api_key": "YOUR_API_KEY_HERE"
+  }
+}
