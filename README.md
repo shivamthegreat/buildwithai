@@ -29,3 +29,8 @@ First, clone this repository:
 git clone https://github.com/shivamthegreat/internshiptaskbwal/.git
 cd internshiptaskbwal
 
+
+## ℹ️ Testing Note
+
+Due to system constraints, I was unable to run Claude Desktop locally. However, the MCP server code is fully implemented and configured. The `Sample_Responses.txt` file demonstrates the expected outputs when tested via Claude Desktop or any MCP client.
+
