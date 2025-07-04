@@ -1,0 +1,55 @@
+{
+  "generated_mcqs": [
+    {
+      "question": "Which of the following is the correct syntax to print \"Hello World\" in Python?",
+      "options": [
+        "echo \"Hello World\"",
+        "print(\"Hello World\")",
+        "printf(\"Hello World\")",
+        "cout << \"Hello World\";"
+      ],
+      "answer": "print(\"Hello World\")"
+    },
+    {
+      "question": "What is the output of: print(type(\"Hello\"))?",
+      "options": [
+        "<class 'str'>",
+        "<class 'int'>",
+        "<class 'list'>",
+        "<class 'bool'>"
+      ],
+      "answer": "<class 'str'>"
+    },
+    {
+      "question": "How do you create a variable with the numeric value 5?",
+      "options": [
+        "x = 5",
+        "int x = 5",
+        "var x = 5",
+        "num x = 5"
+      ],
+      "answer": "x = 5"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": [
+        "func",
+        "define",
+        "def",
+        "function"
+      ],
+      "answer": "def"
+    },
+    {
+      "question": "What symbol is used to comment a single line in Python?",
+      "options": [
+        "//",
+        "#",
+        "<!-- -->",
+        "%%"
+      ],
+      "answer": "#"
+    }
+  ],
+  "lesson_plan": "Lesson Plan for: Python Programming Basics\n\n1. Introduction to Python\n2. Variables and Data Types\n3. Conditional Statements\n4. Loops\n5. Functions\n6. Basic File Handling\n7. Recap and Q&A"
+}
