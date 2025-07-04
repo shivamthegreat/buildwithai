@@ -1,0 +1,33 @@
+Command: Generate 5 multiple-choice questions on Python loops.
+Response:
+{
+  "topic": "Python loops",
+  "questions": [
+    {
+      "question": "Which loop repeats a fixed number of times?",
+      "options": ["for", "while", "if", "switch"],
+      "answer": "for"
+    },
+    ...
+  ]
+}
+
+Command: Provide a lesson plan for teaching algebra.
+Response:
+{
+  "subject": "algebra",
+  "lesson_plan": "Lesson Plan for: algebra..."
+}
+
+Command: Generate 3 flashcards for Object-Oriented Programming.
+Response:
+{
+  "topic": "Object-Oriented Programming",
+  "flashcards": [
+    {
+      "question": "Explain concept 1 in Object-Oriented Programming.",
+      "answer": "This is the explanation for concept 1."
+    },
+    ...
+  ]
+}
